@@ -1,0 +1,8 @@
+{
+  "name": "nativescript-template-groceries",
+  "version": "3.4.0",
+  "main": "app.js",
+  "android": {
+    "markingMode": "none"
+  }
+}
