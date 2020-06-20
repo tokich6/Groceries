@@ -1,4 +1,4 @@
 # Groceries
 MobileApp - NativeScript 
 
-[LinkTutorial Here](https://courses.nativescripting.com/courses/enrolled/171132)
+[Tutorial Here](https://courses.nativescripting.com/courses/enrolled/171132)
